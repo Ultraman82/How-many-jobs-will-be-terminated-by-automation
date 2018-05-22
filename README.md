@@ -1,8 +1,1 @@
-# How-much-jobs-will-be-terminated-by-automation
-
-#### Used datasets
-
-##### [PWC UK economy outlook 2017](https://www.pwc.co.uk/economic-services/ukeo/pwcukeo-section-4-automation-march-2017-v2.pdf)
-
-##### [Employees on nonfarm payrolls by state and selected industry sector, not seasonally adjusted](https://www.bls.gov/news.release/laus.t04.htm)
-
+"# How-much-jobs-will-be-terminated-by-automation" 

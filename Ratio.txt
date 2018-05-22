@@ -1,0 +1,20 @@
+Wholesale and retail trade 14.8% 44.0% 2.25
+Manufacturing 7.6% 46.4% 1.22
+Administrative and support services 8.4% 37.4% 1.09
+Transportation and storage 4.9% 56.4% 0.95
+Professional, scientific and technical 8.8% 25.6% 0.78
+Human health and social work 12.4% 17.0% 0.73
+Accommodation and food service 6.7% 25.5% 0.59
+Construction 6.4% 23.7% 0.52
+Public administration and defence 4.3% 32.1% 0.47
+Information and communication 4.1% 27.3% 0.39
+Financial and insurance 3.2% 32.2% 0.35
+Education 8.7% 8.5% 0.26
+Arts and entertainment 2.9% 22.3% 0.22
+Other services 2.7% 18.6% 0.17
+Real estate 1.7% 28.2% 0.16
+Water, sewage and waste management 0.6% 62.6% 0.13
+Agriculture, forestry and fishing 1.1% 18.7% 0.07
+Electricity and gas supply 0.4% 31.8% 0.05
+Mining and quarrying 0.2% 23.1% 0.01
+Domestic personnel and self-subsistence 0.3% 8.1% 0.01
