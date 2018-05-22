@@ -20,5 +20,5 @@ The industry secor claasfiers in those two datasets were different, so I did som
 ## Result
 This is an interactive chart, but its laggy on jupyter notebook. Little bit buggy, and I can fix it:
 
-![Job_Loss](jobloss.PNG)
+![Job_Loss](jobloss2.PNG)
 
