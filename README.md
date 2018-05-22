@@ -14,10 +14,11 @@
 ![Amercia Job ratio](ratio.PNG)
 
 
+The industry secor claasfiers in those two datasets were different, so I did some calculation using weighted average. Still, Its not perfect.
 
 
 ## Result
-(This is an interactive chart, but its laggy on jupyter notebook. Little bit buggy, and I can fix it:)
+This is an interactive chart, but its laggy on jupyter notebook. Little bit buggy, and I can fix it:
 
 ![Job_Loss](jobloss.PNG)
 
