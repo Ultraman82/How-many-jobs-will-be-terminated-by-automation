@@ -10,8 +10,7 @@
 
 
 
-#### [Employees on nonfarm payrolls by state and selected industry sector/ Bureau of Labor Statistics](https://www.bl s.gov/news.release/laus.t04.htm)
-
+#### [Employees on nonfarm payrolls by state and selected industry sector/ Bureau of Labor Statistics](https://www.bls.gov/news.release/laus.t04.htm)
 ![Amercia Job ratio](ratio.PNG)
 
 
